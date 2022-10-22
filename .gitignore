@@ -3,6 +3,6 @@
 /coverage
 /tmp/*
 .env
-!/tpm/.gitkeep
+!tpm/.gitkeep
 /dist
 ormconfig.json
